@@ -31,56 +31,56 @@ Respalda la autoridad y confianza del sitio web siguiendo principios de calidad 
 En resumen, el SEO es la forma de organizar y presentar el contenido web para que sea reconocido, entendido y mejor posicionado por los motores de búsqueda, elevando así la visibilidad y tráfico del sitio.
 Diccionario de Etiquetas Semánticas.
 
-1: <header>:
+1: header:
 
 Explica su propósito aquí.
 Agrupa el encabezado de la página o sección; incluye logotipo, título, y opciones principales.
-2: <nav>:
+2: nav:
 
 Explica su propósito aquí.
 Define la zona destinada a la navegación, contiene menús y enlaces importantes.
 
-3: <main>:
+3: main>:
 Señala el contenido principal, único e irrepetible de la página.
 Explica su propósito aquí.
 Organiza grupos temáticos de contenido, como capítulos o apartados.
-4: <section>:
+4: section:
 
 Explica su propósito aquí.
 Organiza grupos temáticos de contenido, como capítulos o apartados.
-5: <article>:
+5: article>:
 
 Explica su propósito aquí.
 Encapsula un contenido independiente/autónomo, que podría publicarse fuera del contexto de la página (noticias, blogs, comentarios).
 
-6: <aside>:
+6: aside:
 
 Explica su propósito aquí.
 Señala información complementaria o accesorios visuales, como los sidebars, que no forman parte central del contenido.
 
-7: <footer>:
+7: footer:
 
 Explica su propósito aquí.
 Indica la sección inferior del sitio web, donde se colocan la información de contacto, avisos legales o vínculos finales.
 
-8: <code>:
+8: code:
 Explica su propósito aquí.
  Muestra bloques de código, diferenciándolos del texto común y ayudando a la interpretación correcta por parte de humanos y tecnologías de asistencia.
 
-9: <strong>:
+9: strong:
 Explica su propósito aquí.
 
 Resalta con fuerza una porción del texto, señalando que tiene una importancia destacada, y es reconocido por navegadores y tecnologías de asistencia.
 
-10: <em>:
+10: em:
 Explica su propósito aquí.
 Destaca texto que debe enfatizarse, útil para resaltar palabras clave desde el punto de vista semántico.
 
-11: <blockquote>:
+11: blockquote:
 Explica su propósito aquí.
 Señala una cita larga extraída de otra fuente, diferenciando contenido propio del citado y mejorando la claridad.
 
-12:<li>:
+12:li:
 Explica su propósito aquí.
  Representa cada elemento dentro de una lista, sea ordenada o desordenada, otorgando estructura a la agrupación.
 
@@ -88,33 +88,33 @@ Explica su propósito aquí.
 Explica su propósito aquí.
  Definen los niveles de encabezado en el documento, marcando jerarquía de títulos y subtítulos. Facilitan la accesibilidad y la organización lógica del contenido.
 
-14: <p>:
+14:p:
 Explica su propósito aquí.
  Identifica un párrafo de texto independiente, marcando claramente bloques de contenido textual.
 
-15: <a>:
+15: a:
 Explica su propósito aquí.
  Marca un hipervínculo, conectando la página actual con otros documentos o recursos, imprescindible para la navegación web.
 
-16: <ol>:
+16: ol:
 Explica su propósito aquí.
  Crea una lista ordenada, útil para enumerar pasos, procedimientos o cualquier grupo de elementos que requiera orden específico.
 
-17: <ul>:
+17: ul:
 Explica su propósito aquí.
  Define una lista desordenada, para agrupar elementos sin un orden secuencial necesario.
 
- 18: <address>: Indica información de contacto del autor o propietario del documento o una sección específica, como dirección, correo electrónico o teléfono. Normalmente se usa en el pie de página o al final de un artículo.
+ 18: address: Indica información de contacto del autor o propietario del documento o una sección específica, como dirección, correo electrónico o teléfono. Normalmente se usa en el pie de página o al final de un artículo.
 
- 19: <details>: 
+ 19: details: 
  Explica su propósito aquí
  Representa un widget de usuario que puede mostrar u ocultar información adicional bajo demanda, comúnmente usado para contenido desplegable o acordeón. Mejora la experiencia y organización del contenido sin perder semántica.
 
- 20<figure>:
+ 20figure:
  Explica su propósito aquí
-Define contenido autónomo, como una imagen, ilustración, diagrama o código, que está acompañado de un pie de figura opcional con <figcaption>. Es útil para asociar contenido visual con su descripción semántica
+Define contenido autónomo, como una imagen, ilustración, diagrama o código, que está acompañado de un pie de figura opcional con figcaption. Es útil para asociar contenido visual con su descripción semántica
 
-20: <time>:
+20: time:
 Explica su propósito aquí
  Sirve para marcar fechas y horas en un formato legible para humanos y máquinas, facilitando la interpretación y uso por sistemas de calendarios o motores de búsqueda.
  

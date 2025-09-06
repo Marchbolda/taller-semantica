@@ -86,7 +86,7 @@ Explica su propósito aquí.
 
 13: <h1> a <h6>:
 Explica su propósito aquí.
- Definen los niveles de encabezado en el documento, marcando jerarquía de títulos y subtítulos. Facilitan la accesibilidad y la organización lógica del contenido.
+ Definen los niveles de encabezado en el documento, marcando jerarquía de títulos y subtítulos. Facilitan la accesibilidad y la organización lógica del contenido..
 
 14:p:
 Explica su propósito aquí.
